@@ -15,73 +15,19 @@ trojan=HJ001.xiba1.xyz:20734, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, ove
 trojan=HJ001.xiba1.xyz:20735, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20735
 trojan=HJ001.xiba1.xyz:20736, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20736
 trojan=HJ001.xiba1.xyz:20737, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20737
-http = h192837.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=防失联节点
-http = h192837.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=clash订阅链接：https://sub.freexiazai.ml/https-clash
-http = h192837.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 1
-http = h192837.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 2
-http = h192837.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 3
-http = h890361.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 4
-http = h890361.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 5
-http = h890361.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 6
-http = h63956.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 7
-http = h63956.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 8
-http = h63956.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 9
-http = h738106.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 10
-http = h738106.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 11
-http = h738106.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 12
-http = h517439.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 13
-http = h517439.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 14
-http = h517439.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP｜日本 | 15
-http = h192837.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 1
-http = h192837.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 2
-http = h192837.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 3
-http = h3816tw.strongpipe.live:20443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 4
-http = h890361.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 5
-http = h890361.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 6
-http = h63956.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 7
-http = h63956.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 8
-http = h63956.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 9
-http = h738106.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 10
-http = h738106.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 11
-http = h738106.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 12
-http = h517439.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 13
-http = h517439.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 14
-http = h517439.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇨🇳 tw｜中华民国 | 15
-http = h192837.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇭🇰 hk｜香港 | 1
-http = h192837.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇭🇰 hk｜香港 | 2
-http = h890361.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇭🇰 hk｜香港 | 3
-http = h890361.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇭🇰 hk｜香港 | 4
-http = h63956.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇭🇰 hk｜香港 | 5
-http = h63956.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇭🇰 hk｜香港 | 6
-http = h738106.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇭🇰 hk｜香港 | 7
-http = h738106.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇭🇰 hk｜香港 | 8
-http = h517439.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇭🇰 hk｜香港 | 9
-http = h517439.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇭🇰 hk｜香港 | 10
-http = h192837.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 | 1
-http = h192837.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 | 2
-http = h192837.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 | 3
-http = h890361.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 | 4
-http = h890361.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 | 5
-http = h890361.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 |3b
-http = h63956.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 |c
-http = h63956.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 |2c
-http = h63956.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 |3c
-http = h738106.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 |d
-http = h738106.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 |2d
-http = h738106.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 |3d
-http = h517439.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 |e
-http = h517439.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 |2e
-http = h517439.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇩🇪 de｜德国 |3e
-http = h192837.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 1
-http = h890361.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 2
-http = h890361.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 3
-http = h890361.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 4
-http = h63956.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 5
-http = h63956.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 6
-http = h63956.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 7
-http = h738106.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 8
-http = h738106.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 9
-http = h738106.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 10
-http = h517439.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 11
-http = h517439.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 12
-http = h517439.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tag=🇺🇸 US｜美国 | 13
+trojan=HJ001.xiba1.xyz:20724, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20724
+trojan=HJ001.xiba1.xyz:20725, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20725
+trojan=HJ001.xiba1.xyz:20726, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20726
+trojan=HJ001.xiba1.xyz:20727, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20727
+trojan=HJ001.xiba1.xyz:20728, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20728
+trojan=HJ001.xiba1.xyz:20740, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20740
+trojan=HJ001.xiba1.xyz:20741, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=tw IPLB专线20741
+trojan=HJ001.xiba1.xyz:20742, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=tw IPLB专线20742
+trojan=HJ001.xiba1.xyz:20743, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20743
+trojan=HJ001.xiba1.xyz:20744, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20744
+trojan=HJ001.xiba1.xyz:20745, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20745
+trojan=HJ001.xiba1.xyz:20746, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20746
+trojan=HJ001.xiba1.xyz:20747, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20747
+trojan=HJ001.xiba1.xyz:20710, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20710
+trojan=HJ001.xiba1.xyz:20711, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20711
+trojan=HJ001.xiba1.xyz:20712, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20712
