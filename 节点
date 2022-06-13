@@ -1,33 +1,12 @@
+trojan=120.233.186.250:3389, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 9
 
-trojan=HJ001.xiba1.xyz:20719, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 香港IPLB专线20719
-trojan=HJ001.xiba1.xyz:20720, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 香港IPLB专线20720
-trojan=HJ001.xiba1.xyz:20721, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 香港IPLB专线20721
-trojan=HJ001.xiba1.xyz:20722, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 香港IPLB专线20722
-trojan=HJ001.xiba1.xyz:20723, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 香港IPLB专线20723
-trojan=HJ001.xiba1.xyz:20753, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 香港IPLB专线20753
-trojan=HJ001.xiba1.xyz:20759, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=tw 台湾IPLB专线20759
-trojan=HJ001.xiba1.xyz:20760, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=tw 台湾IPLB专线20760
-trojan=HJ001.xiba1.xyz:20730, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20730
-trojan=HJ001.xiba1.xyz:20731, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20731
-trojan=HJ001.xiba1.xyz:20732, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20732
-trojan=HJ001.xiba1.xyz:20733, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20733
-trojan=HJ001.xiba1.xyz:20734, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20734
-trojan=HJ001.xiba1.xyz:20735, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20735
-trojan=HJ001.xiba1.xyz:20736, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20736
-trojan=HJ001.xiba1.xyz:20737, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg 新加坡IPLB专线20737
-trojan=HJ001.xiba1.xyz:20724, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20724
-trojan=HJ001.xiba1.xyz:20725, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20725
-trojan=HJ001.xiba1.xyz:20726, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20726
-trojan=HJ001.xiba1.xyz:20727, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20727
-trojan=HJ001.xiba1.xyz:20728, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20728
-trojan=HJ001.xiba1.xyz:20740, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 IPLB专线20740
-trojan=HJ001.xiba1.xyz:20741, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=tw IPLB专线20741
-trojan=HJ001.xiba1.xyz:20742, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=tw IPLB专线20742
-trojan=HJ001.xiba1.xyz:20743, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20743
-trojan=HJ001.xiba1.xyz:20744, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20744
-trojan=HJ001.xiba1.xyz:20745, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20745
-trojan=HJ001.xiba1.xyz:20746, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20746
-trojan=HJ001.xiba1.xyz:20747, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20747
-trojan=HJ001.xiba1.xyz:20710, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20710
-trojan=HJ001.xiba1.xyz:20711, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20711
-trojan=HJ001.xiba1.xyz:20712, password=6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=sg IPLB专线20712
+trojan=120.233.186.250:3386, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 6
+
+trojan=120.233.186.250:3385, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 5
+
+trojan=120.233.186.250:3384, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 4
+
+trojan=120.233.186.250:3383, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 3
+
+trojan=120.233.186.250:3382, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 2
+trojan=120.233.186.250:3381, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 1
