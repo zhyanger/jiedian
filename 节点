@@ -1,12 +1,8 @@
 trojan=120.233.186.250:3389, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 9
-
 trojan=120.233.186.250:3386, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 6
-
 trojan=120.233.186.250:3385, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 5
-
 trojan=120.233.186.250:3384, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 4
-
 trojan=120.233.186.250:3383, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 3
-
 trojan=120.233.186.250:3382, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 2
 trojan=120.233.186.250:3381, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 1
+trojan=hkt.n.optage.moe:44609, password=8beaa448-39ed-43cd-9bb6-73ecb8b3d64d, over-tls=true, tls-verification=false, tls-host=hkt.node.qchwnd.moe, fast-open=true, udp-relay=false, tag=IPLB专线 44609
