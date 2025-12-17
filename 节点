@@ -1,8 +1,14 @@
-trojan=120.233.186.250:3389, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 9
-trojan=120.233.186.250:3386, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 6
-trojan=120.233.186.250:3385, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 5
-trojan=120.233.186.250:3384, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 4
-trojan=120.233.186.250:3383, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 3
-trojan=120.233.186.250:3382, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 2
-trojan=120.233.186.250:3381, password=8c72bafbd4837610, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLB 1
-trojan=hkt.n.optage.moe:44609, password=8beaa448-39ed-43cd-9bb6-73ecb8b3d64d, over-tls=true, tls-verification=false, tls-host=hkt.node.qchwnd.moe, fast-open=true, udp-relay=false, tag=IPLB专线 44609
+MetArt1 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12125/index.m3u8
+MetArt2 http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
+MetArt3 http://645hsfs.akadatel.com/iptv/3K5Z3VE8M7N89U/6233/index.m3u8
+MetArt4 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6233/index.m3u8
+MetArt5 https://hyf000.eu.org/iptv/94
+FemJoy1 http://645hsfs.akadatel.com/iptv/3K5Z3VE8M7N89U/6212/index.m3u8
+FemJoy2 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6212/index.m3u8
+FemJoy3 http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6212/index.m3u8
+FemJoy4 https://hyf000.eu.org/iptv/73
+Japan1 http://645hsfs.akadatel.com/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
+Japan2 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
+Japan3 https://hyf000.eu.org/iptv/86
+Nubiles1 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6238/index.m3u8
+Nubiles2 https://hyf000.eu.org/iptv/98
